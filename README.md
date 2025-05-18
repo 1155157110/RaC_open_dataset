@@ -17,7 +17,6 @@ Understanding: A Rephrase and Contrast Approach](./manuscript/Rephrase_and_Contr
   - [Training](#training)
   - [Evaluation](#evaluation)
   - [Results](#results)
-  - [](#)
   - [Contact](#contact)
 
 ---
@@ -168,7 +167,6 @@ Our model demonstrats stable performance in kfold cross-validation.
 ![Kfold Cross Validation](./figures/results_k_fold.png)
 
 ![Ablation Study](./figures/results_ablation.png)
----
 
 ## Contact
 
